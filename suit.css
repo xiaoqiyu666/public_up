@@ -153,7 +153,7 @@ table { border-collapse: collapse; background-color: transparent; }
 
 caption { padding-top: 0.4rem 0.8rem; padding-bottom: 0.4rem 0.8rem; color: #9ca3a9; text-align: left; caption-side: bottom; }
 
-th { text-align: left; }
+th { /* text-align: left; */ }
 
 label { display: inline-block; margin-bottom: .5rem; }
 
